@@ -23,12 +23,22 @@ p{
   font-size: 14px;
 }
 
-.bkgnd{
+.bg-img{
   color: white;
   background-image: url("../images/the-flatiron-building.png");
 }
 
-.bkgnd p a{
+a{
   color: white;
   font-size: 18px;
+}
+
+.bg-gray{
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+}
+
+#copyright{
+  font-size: 11px;
 }
